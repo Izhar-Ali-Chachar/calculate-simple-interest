@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+[# Simple Interest Calculator
 
 Welcome to the Simple Interest Calculator project!
 
@@ -47,3 +47,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 If you have any questions or need help, please contact us at [INSERT EMAIL ADDRESS].
 
 Thank you for checking out our project!
+](https://github.com/Izhar-Ali-Chachar/jbbmo-Introduction-to-Git-and-GitHub/branches)
